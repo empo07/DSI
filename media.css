@@ -1,0 +1,30 @@
+@media (max-width: 1200px) {
+  .container {
+    width: 100%;
+    max-width: 1000px;
+
+  /* .header-logo {
+    display: flex; */
+  /* }
+  .header-nav {
+    display: flex;
+    gap: 40px; */
+    /* .header-img {
+      display: flex;
+      gap: 30px; */
+    }
+    
+    .header-nav h5 {
+      font-size: 15px;
+    }
+    .header2 span {
+      color: red;
+    }  
+  }
+} /* ноутбук үчүн */
+@media (max-width: 992px) {
+} /* планшет үчүн */
+@media (max-width: 768px) {
+} /* кичине планшет */
+@media (max-width: 480px) {
+} /* телефон үчүн */

@@ -1,0 +1,154 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 100%;
+  max-width: 1320px;
+  margin: 0 auto;
+}
+.header-logo {
+  display: flex;
+}
+.header-nav {
+  display: flex;
+  gap: 60px;
+}
+.header-img {
+  display: flex;
+  gap: 30px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 30px;
+}
+.header-nav h5 {
+  font-size: 20px;
+}
+.header2 span {
+  color: red;
+}
+.main {
+  margin-top: 200px;
+  display: flex;
+}
+.main span {
+  color: red;
+}
+.main p {
+  margin-top: 40px;
+  font-size: 20px;
+}
+.main h1 {
+  font-size: 40px;
+}
+.main button {
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  width: 140px;
+  height: 40px;
+  border: none;
+  margin-top: 30px;
+}
+.main-img {
+  margin-left: 300px;
+}
+.main2 {
+  display: flex;
+  margin-top: 70px;
+}
+#main2 {
+  background-color: rgba(231, 225, 217, 0.301);
+  width: 100%;
+  height: 500px;
+}
+.main-text2 h3 {
+  font-size: 30px;
+  margin-left: 50px;
+}
+.main-text2 p {
+  font-size: 18px;
+  margin-left: 50px;
+}
+.main-text2 span {
+  color: red;
+}
+.main-text2 {
+  margin-left: 90px;
+  margin-top: 70px;
+}
+.main3 h2 {
+  text-align: center;
+  margin-top: 150px;
+  font-size: 30px;
+}
+.main-img3 {
+  display: flex;
+  gap: 200px;
+  margin-top: 50px;
+}
+.main-img3 h5 {
+  color: red;
+  font-size: 25px;
+}
+.main-img3 p {
+  font-size: 18px;
+}
+.main-img3 button {
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  width: 120px;
+  height: 40px;
+  border: none;
+  margin-top: 10px;
+}
+.main-img3 p {
+  margin-top: 10px;
+}
+.header-logo2 {
+  display: flex;
+}
+.main4 {
+  display: flex;
+  margin-top: 150px;
+}
+.h6 h6 {
+  font-size: 18px;
+  margin-top: 20px;
+}
+.h6 p {
+  font-size: 18px;
+}
+.main-textt {
+  margin-left: 50px;
+}
+.main-textt h5 {
+  font-size: 24px;
+}
+.main-textt p {
+  font-size: 18px;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+.main5 {
+  background-color: #ee4248;
+  height: 64px;
+}
+.main5 p {
+  text-align: center;
+  padding-top: 28px;
+  color: white;
+}
+hr {
+  margin-top: 30px;
+}
+select {
+  border: none;
+  font-size: 18px;
+  font-weight: 700;
+}
